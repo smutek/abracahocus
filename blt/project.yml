@@ -10,7 +10,6 @@ project:
 git:
   default_branch: master
   remotes:
-    - https://github.com/smutek/abracahocus
     - abracahocus@svn-6886.devcloud.hosting.acquia.com:abracahocus.git
 drush:
   aliases:
